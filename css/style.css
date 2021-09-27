@@ -206,7 +206,7 @@ body {
   }
   .article-preview {
     box-sizing: border-box;
-    min-width: 100%;
+    max-width: 100%;
     background-color: rgba(185, 164, 100, 1);
   }
   .article-time-author {
