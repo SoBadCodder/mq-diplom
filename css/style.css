@@ -924,7 +924,7 @@ body {
     }
     .shop-img {
       width: calc(285%/3.3);
-      min-height: 285px;
+      min-height: 250px;
     }
     .footer {
       margin-top: 44px;
